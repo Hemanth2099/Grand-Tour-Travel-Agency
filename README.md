@@ -1,5 +1,7 @@
 # Grand-Tour-Travel-Agency
 
+Designed this project for Future Ready Talent Internship
+
 Problem Statement:
 Grand Tour Travel Agency currently faces challenges in effectively showcasing their diverse range of travel packages and personalized tour options to potential customers. The existing website lacks user-friendliness and fails to highlight the unique experiences and benefits of choosing their services, leading to missed opportunities for conversion and customer engagement.
 
